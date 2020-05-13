@@ -1,0 +1,9 @@
+ 2020-05-13 09:18:55,018  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-13 09:18:55,095  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-13 09:18:56,118  INFO [main] LoggerClass:12 - Navigated to Sign In page
+ 2020-05-13 09:19:07,127  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-13 09:19:07,127  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-13 09:19:07,818  INFO [main] LoggerClass:12 - Navigated to Sign In page
+ 2020-05-13 09:19:18,254  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-13 09:19:18,254  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-13 09:19:19,377  INFO [main] LoggerClass:12 - Navigated to Sign In page
