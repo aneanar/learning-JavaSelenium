@@ -39,15 +39,24 @@ public class BaseClass {
     /*
     This function is to execute before every @Test case
      */
+    @Parameters("browser")
     @BeforeMethod
-    public void lauchApp() throws IOException {
-        ChromeOptions options = new ChromeOptions();
-        options.setExperimentalOption("useAutomationExtension", false);
-        System.setProperty("webdriver.chrome.driver",CHROME_DRIVER_PATH);
-        driver = new ChromeDriver(options);
-        LoggerClass.info("Browser launched");
-        driver.get(configreader.get(configreader.get(CURENT_ENVIRONMENT)));
-        LoggerClass.info("navigated to the url : "+configreader.get(configreader.get(CURENT_ENVIRONMENT)));
+    public void lauchApp(String browser) throws IOException {
+
+        switch (browser.toLowerCase())
+        {
+            case "chrome":
+                ChromeOptions options = new ChromeOptions();
+                options.setExperimentalOption("useAutomationExtension", false);
+                System.setProperty("webdriver.chrome.driver",CHROME_DRIVER_PATH);
+                driver = new ChromeDriver(options);
+                LoggerClass.info("Browser launched");
+                driver.get(configreader.get(configreader.get(CURENT_ENVIRONMENT)));
+                LoggerClass.info("navigated to the url : "+configreader.get(configreader.get(CURENT_ENVIRONMENT)));
+                break;
+
+        }
+
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 
