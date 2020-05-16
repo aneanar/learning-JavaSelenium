@@ -7,3 +7,40 @@
  2020-05-13 09:19:18,254  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
  2020-05-13 09:19:18,254  INFO [main] LoggerClass:12 - Navigated to Home screen
  2020-05-13 09:19:19,377  INFO [main] LoggerClass:12 - Navigated to Sign In page
+2020-05-14 09:35:17,908  INFO [main] LoggerClass:12 - Browser launched
+ 2020-05-14 09:35:20,035  INFO [main] LoggerClass:12 - navigated to the url : http://books.rediff.com/
+ 2020-05-14 09:35:21,195  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-14 09:35:21,262  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-14 09:35:23,228  INFO [main] LoggerClass:12 - Navigated to Sign In page
+ 2020-05-14 09:35:26,608  INFO [main] LoggerClass:12 - Browser closed successfully and reports were saved
+ 2020-05-14 09:35:30,990  INFO [main] LoggerClass:12 - Browser launched
+ 2020-05-14 09:35:31,801  INFO [main] LoggerClass:12 - navigated to the url : http://books.rediff.com/
+ 2020-05-14 09:35:33,011  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-14 09:35:33,011  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-14 09:35:33,771  INFO [main] LoggerClass:12 - Navigated to Sign In page
+ 2020-05-14 09:35:36,009  INFO [main] LoggerClass:12 - Browser closed successfully and reports were saved
+ 2020-05-14 09:35:39,673  INFO [main] LoggerClass:12 - Browser launched
+ 2020-05-14 09:35:40,616  INFO [main] LoggerClass:12 - navigated to the url : http://books.rediff.com/
+ 2020-05-14 09:35:41,769  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-14 09:35:41,769  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-14 09:35:42,626  INFO [main] LoggerClass:12 - Navigated to Sign In page
+ 2020-05-14 09:35:44,962  INFO [main] LoggerClass:12 - Browser closed successfully and reports were saved
+ 2020-05-16 23:51:38,805  INFO [main] LoggerClass:12 - Browser launched
+ 2020-05-16 23:51:40,527  INFO [main] LoggerClass:12 - navigated to the url : http://books.rediff.com/
+ 2020-05-16 23:51:41,717  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-16 23:51:41,810  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-16 23:51:44,226  INFO [main] LoggerClass:12 - Navigated to Sign In page
+ 2020-05-16 23:51:48,816  INFO [main] LoggerClass:12 - Browser closed successfully and reports were saved
+ 2020-05-16 23:51:54,267  INFO [main] LoggerClass:12 - Browser launched
+ 2020-05-16 23:51:55,479  INFO [main] LoggerClass:12 - navigated to the url : http://books.rediff.com/
+ 2020-05-16 23:51:56,648  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-16 23:51:56,648  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-16 23:51:58,116  INFO [main] LoggerClass:12 - Navigated to Sign In page
+ 2020-05-16 23:52:01,901  INFO [main] LoggerClass:12 - Browser closed successfully and reports were saved
+ 2020-05-16 23:52:06,792  INFO [main] LoggerClass:12 - Browser launched
+ 2020-05-16 23:52:08,196  INFO [main] LoggerClass:12 - navigated to the url : http://books.rediff.com/
+ 2020-05-16 23:52:09,412  INFO [main] LoggerClass:12 - execution Started for validateInvalidLoginScenario
+ 2020-05-16 23:52:09,412  INFO [main] LoggerClass:12 - Navigated to Home screen
+ 2020-05-16 23:52:10,738  INFO [main] LoggerClass:12 - Navigated to Sign In page
+ 2020-05-16 23:52:13,913  INFO [main] LoggerClass:12 - Browser closed successfully and reports were saved
+ 
